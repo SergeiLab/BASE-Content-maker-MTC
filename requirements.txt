@@ -1,0 +1,14 @@
+# Data processing
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+lightgbm
+
+# Utilities
+pyyaml
